@@ -1,2 +1,2 @@
-# Le-Chapeu
-https://racewilliams3.github.io/Le-Chapeu/
+# Cubethon
+https://racewilliams3.github.io/CubethonAI/
